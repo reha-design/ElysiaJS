@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+build/
+.npm/
+bun.lockb
+
+# Environment
+.env
+.env.local
+
+# Docker
+mysql_data/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Agent Metadata (Optional)
+#!.agents/
